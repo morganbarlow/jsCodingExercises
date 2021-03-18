@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T22:22:15.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Haz5ecMGBlLuH_PsUOix" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T22:32:42.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="zXAvbAFtXUESk-kkIcw1" version="14.4.9" type="github" pages="2">
   <diagram id="ZE0HcLOBOUWE00AGF-Uc" name="Homepage">
     <mxGraphModel dx="1006" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,6 +18,50 @@
         </mxCell>
         <mxCell id="O9ju0zN1oG0WCs6XYwQj-5" value="Logo" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O9ju0zN1oG0WCs6XYwQj-7" value="Search Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O9ju0zN1oG0WCs6XYwQj-8" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.search;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60.5" width="20" height="19" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AuWBYsEc_C_rWNfNjNFB" name="User Profile Page">
+    <mxGraphModel dx="1006" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="5sWozJzunsvcVQnLOzxo-0" />
+        <mxCell id="5sWozJzunsvcVQnLOzxo-1" parent="5sWozJzunsvcVQnLOzxo-0" />
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="40" y="40" width="680" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="40" y="40" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-2" value="Your Profile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="640" y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-3" value="Create Book" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="560" y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-4" value="Logo" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="50" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-5" value="Search Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="280" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.search;" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="470" y="60.5" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-7" value="Generic User photo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="60" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-8" value="Username" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="170" y="130" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wqb5PUZ3_DF_7UU5dxkU-9" value="Users biography blurb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="5sWozJzunsvcVQnLOzxo-1">
+          <mxGeometry x="170" y="160" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
